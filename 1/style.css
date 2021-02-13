@@ -1,0 +1,11 @@
+.kleine{
+    display: flex;
+    justify-content: space-around;
+}
+
+.gross{
+    display: flex;
+    justify-content: space-around;
+    width: 1240px;
+    height: 500px;
+}
